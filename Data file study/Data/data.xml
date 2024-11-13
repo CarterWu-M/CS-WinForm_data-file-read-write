@@ -1,0 +1,31 @@
+<root>
+  <TestPoint1>
+    <Impedance>
+      <Min>100</Min>
+      <Max>30</Max>
+    </Impedance>
+    <Voltage>
+      <Min>1.1</Min>
+      <Max>2.2</Max>
+    </Voltage>
+    <Current>
+      <Min>0.9</Min>
+      <Max>1.1</Max>
+    </Current>
+    <Power>
+      <Min>10.3</Min>
+      <Max>50.7</Max>
+    </Power>
+  </TestPoint1>
+  <TestPoint2>
+    <Impedance>
+      <Min>100</Min>
+      <Max>100000</Max>
+    </Impedance>
+    <Voltage>
+      <Min>7.5</Min>
+      <Max>14.5</Max>
+    </Voltage>
+  </TestPoint2>
+</root>
+

@@ -1,0 +1,31 @@
+{
+    "TestPoint1": {
+        "Impedance": {
+            "Min": 100,
+            "Max": 10000
+        },
+        "Voltage": {
+            "Min": 1.1,
+            "Max": 2.2
+        },
+        "Current": {
+            "Min": 0.9,
+            "Max": 1.1
+        },
+        "Power": {
+            "Min": 10.3,
+            "Max": 50.7
+        }
+    },
+    "TestPoint2": {
+        "Impedance": {
+            "Min": 100,
+            "Max": 10000
+        },
+        "Voltage": {
+            "Min": 7.5,
+            "Max": 14.5
+        }
+    }
+}
+
